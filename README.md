@@ -34,9 +34,9 @@
 | Project | Description |
 |----------|-------------|
 | 🖥️ [ESXi Lab Setup](https://github.com/akmannn/esxi-lab-setup) | Complete documentation of my ESXi 8 installation, VM configuration, and troubleshooting. |
-| 🌐 [Network Lab – VLAN & EIGRP](https://github.com/akmannn/network-lab-eigrp-vlan) | Cisco network topology with router/switch configs and Packet Tracer diagrams. |
-| 🗄️ [Windows Server + SQL Project](https://github.com/akmannn/windows-server-sql-lab) | AD setup, SQL Server installation, database restore, and queries. |
-
+| 🌐 [Network Lab – VLAN & EIGRP](https://github.com/akmannn/) | Cisco network topology with router/switch configs and Packet Tracer diagrams. |
+| 🗄️ [Windows Server + SQL Project](https://github.com/akmannn/) | AD setup, SQL Server installation, database restore, and queries. |
+<!-- Update hyperlinks -->
 ---
 
 ### 📊 GitHub Stats
